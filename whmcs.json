@@ -1,0 +1,31 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "sample-remote-bank-gateway-module",
+  "license": "MIT",
+  "category": "gateway",
+  "description": {
+    "name": "Sample Remote Input Bank Gateway Module",
+    "tagline": "Payment Gateway modules allow you to integrate payment solutions with the WHMCS platform.",
+    "long": "The sample files here demonstrate how we suggest a Remote Input Bank Payment Gateway module for WHMCS be structured and implemented.",
+    "features": [
+      "Admin status message"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/www.whmcs.com\/",
+    "learn_more": "https:\/\/www.whmcs.com\/tour",
+    "email": "support@whmcs.com",
+    "support_url": "https:\/\/support.whmcs.com\/",
+    "docs_url": "https:\/\/developers.whmcs.com\/payment-gateways\/"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
